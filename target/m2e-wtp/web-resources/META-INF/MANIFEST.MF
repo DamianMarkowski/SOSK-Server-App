@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: SOSK Mobile App
+Implementation-Version: 1.3.0.RELEASE
+Built-By: dammar
+Implementation-Vendor-Id: org.springframework.boot
+Build-Jdk: 1.8.0_65
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
